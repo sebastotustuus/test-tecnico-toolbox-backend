@@ -1,8 +1,9 @@
 exports.textServices = (param) => {
-  const reverse = param.split('').reverse().join('')
+  const paramReplaced = param.toLowerCase().replace(/[\W_]/g, '')
+  const reverse = paramReplaced.split('').reverse().join('')
   return {
     original: param,
     text: reverse,
-    palindrome: param === reverse
+    palindrome: paramReplaced === reverse
   }
 }
