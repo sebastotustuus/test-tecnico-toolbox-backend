@@ -1,6 +1,6 @@
 # Descripción del Proyecto como Prueba Técnica
 
-Este proyecto responde a los requerimientos de la prueba técnica de La Manicurista. En ningún momento pretende ser llevado más allá que las pruebas locales o de pruebas por parte de la empresa. Este correponde al back-end del aplicativo.
+Este proyecto responde a los requerimientos de la prueba técnica de Toolbox. En ningún momento pretende ser llevado más allá que las pruebas locales o de pruebas por parte de la empresa. Este correponde al back-end del aplicativo.
 
 ### Tech
 El proyecto del lado del back-end usa diferentes librerías para su funcionamiento
