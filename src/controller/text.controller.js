@@ -1,4 +1,4 @@
-const key = 'q'
+const key = 'text'
 
 exports.reverseText = (textServices) => {
   return (req, res, next) => {
